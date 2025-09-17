@@ -2,7 +2,22 @@
 
 ## Project info
 
-A React-based fashion try-on application powered by AI.
+**AI-Powered Virtual Fashion Try-On | React + TypeScript + Google Gemini AI**
+Experience the future of fashion with this innovative web application that enables virtual try-on of multiple garments using AI-powered image generation and advanced canvas composition.
+
+##✨ Features
+**AI-Powered Try-On:** Google Gemini 2.0 Flash integration for realistic model generation
+**Multi-Garment Support:** Upload and combine dresses, t-shirts, footwear, and accessories
+**Smart Image Processing:** Advanced background removal and canvas-based composition
+**Real-time Preview:** Instant visualization with gender selection and garment management
+**Responsive Design:** Modern UI built with React, TypeScript, and Tailwind CSS
+
+##🛠️ Tech Stack
+**Frontend:** React 18, TypeScript, Vite
+**AI/ML:** Google Generative AI (Gemini 2.0 Flash)
+**Styling:** Tailwind CSS, shadcn/ui components
+**Image Processing:** Canvas API, custom background removal algorithms
+**State Management:** React Hooks, Context API
 
 ## How can I edit this code?
 
